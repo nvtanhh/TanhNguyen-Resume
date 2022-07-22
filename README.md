@@ -1,5 +1,7 @@
 This repo is forked from https://github.com/posquit0/Awesome-CV
 
+Edit the resume at: https://www.overleaf.com/
+
 ## Preview my résumé
 
 You can see [PDF](https://raw.githubusercontent.com/nvtanhh/TanhNguyen-resume/master/assets/Flutter_TanhNguyen_Resume.pdf)
